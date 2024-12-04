@@ -27,14 +27,14 @@ export default function Home() {
                imageUrl: 'https://media.dodostatic.net/image/r:292x292/11EE7D61698827EE9B8DB6D0AEC53410.avif',
                price: 550,
                items: [{price: 500}],
-             }]} categoryId={1} />
+             }]} categoryId={2} />
              <ProductsGroupList title='Закуски' products={[{
                id: 1,
                name: 'Бургер-пицца',
                imageUrl: 'https://media.dodostatic.net/image/r:292x292/11EE7D61698827EE9B8DB6D0AEC53410.avif',
                price: 550,
                items: [{price: 500}],
-             }]} categoryId={1} />
+             }]} categoryId={3} />
            </div>
          </div>
        </div>
